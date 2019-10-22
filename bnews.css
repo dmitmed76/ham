@@ -1,0 +1,65 @@
+.Our{
+    position:relative;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-size: 36px;
+    font-family: "Montserrat";
+    color: rgb(78, 78, 78);
+    line-height: 1.111;
+    top: 50px;
+    z-index: 374;
+}
+.w{
+    position: relative;
+    top:350px;
+    margin-left: 390px;
+    margin-right: 390px;
+    width: auto;
+    height: 700px;
+}
+.AW17_1{
+    position: absolute;
+    float: left;
+    background-color: #FFFFFF;
+    left:0;
+    width: 25%;
+    height: 33%;
+    padding: 0px;
+    border-right: 5px;
+    border-left: 5px;
+    border: #FFFFFF;
+}
+
+.AW17_2{
+    position: absolute;
+    bottom: 0;
+    float: left;
+    background-color: #FFFFFF;
+    left:0;
+    width: 25%;
+    height: 33%;
+    padding: 0px;
+}
+.AW17_3 {
+    position: absolute;
+    content:"";
+    right: 25px;
+    top: 0;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 16pt;
+    padding: 20px;
+    width: 60px;
+    height: 60px;
+    background: #606060;
+    }
+.ABPost {
+    font-size: 19px;
+    font-family: "Montserrat";
+    color: rgb(113, 113, 113);
+    width: 100%;
+    line-height: 2.165;
+    text-align: center;
+    padding: 15px;
+}
